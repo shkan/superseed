@@ -229,9 +229,6 @@ function create_config( )
     },
     sudo_users = {87160007},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[S.H.O.S Bot version5.2 Supergp (BEAUTIFULLY MODE :)))
-    Developer:@shayan123hacker
-]],
     help_text_realm = [[
 Realm Commands:
 

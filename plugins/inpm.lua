@@ -208,7 +208,7 @@ if to == 'user' or service or is_admin1(msg) and to == "chat" or to == "channel"
 
 	if matches[1] == 'help' and msg.to.type == 'user' or matches[1] == 'pmhelp' and is_admin1(msg) and msg.to.type ~= 'user' then
       	savelog(msg.to.id, name_log.." ["..msg.from.id.."] used pm help")
-		text = "Welcome to S.H.A.S Bot!\n\nTo get a list of S.H.A.S groups use /chats or /chatlist for a document list of chats.\n\nThanks for using S.H.A.S!"
+		text = "Welcome to KING Bot!\n\nTo get a list of KING groups use /chats or /chatlist for a document list of chats.\n\nThanks for using KiNg! :))"
      	return text
     end
 

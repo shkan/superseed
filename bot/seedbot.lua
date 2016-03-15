@@ -219,6 +219,7 @@ function create_config( )
     "google",
     "calc",
     "cpu",
+    "boobs",
     "echo",
     "gps",
     "onfo",

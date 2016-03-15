@@ -239,10 +239,10 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {87160007,172178919},--Sudo users
+    sudo_users = {87160007},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[S.H.O.S bot Version 5.2.1 Developer: @shayan123hacker
-    Sudo Users : @shayan123hacker & @crazyboy10
+    Sudo Users : @shayan123hacker
     ]]
     help_text_realm = [[
 Realm Commands:

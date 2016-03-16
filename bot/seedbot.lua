@@ -228,6 +228,7 @@ function create_config( )
     "info2",
     "echo",
     "gps",
+    "media",
     "slm",
     "spam",
     "text",

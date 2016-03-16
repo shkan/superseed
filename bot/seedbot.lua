@@ -223,6 +223,7 @@ function create_config( )
     "s2a",
     "cpu",
     "boobs",
+    "antibot",
     "echo",
     "gps",
     "onfo",
@@ -243,10 +244,10 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {87160007,137791771},--Sudo users
+    sudo_users = {87160007},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[KiNg bot Version 5.2.1 Developer: @shayan123hacker
-    Sudo Users : @shayan123hacker & @mehdijokers
+    Sudo User : @shayan123hacker
     ]],
     help_text_realm = [[
 Realm Commands:

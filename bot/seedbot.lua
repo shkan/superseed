@@ -219,6 +219,7 @@ function create_config( )
     "google",
     "calc",
     "welcome",
+    "antibot",
     "qr",
     "s2a",
     "cpu",
